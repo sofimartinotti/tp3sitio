@@ -1,0 +1,482 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Quicksand&display=swap');
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #FFF7E0;
+}
+
+main{
+	width: 100%;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header{
+	width: 100%;
+	height: 110px;
+	background-color: #DA4C30;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo{
+	position: relative; top: -28%;
+}
+
+h2{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+	color: #000000;
+	text-align: center;
+	position: relative; top: -8%;
+	letter-spacing: 5px;
+}
+
+
+h1{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 80px;
+	color: #000000;
+	text-align: center;
+	padding: 13%;
+	letter-spacing: 5px;
+}
+
+h3{
+	font-family: 'Quicksand', sans-serif;
+	color: #000000;
+	font-size: 20px;
+	
+}
+
+.titulos{
+	text-align: center;
+	position: relative; top: -4%;
+}
+
+
+#contexto{
+	margin-left: 8%;
+}
+
+
+.principal{
+	text-align: center;
+	position: relative; top: -3%;
+}
+
+
+p{
+	font-family: 'Quicksand', sans-serif;
+}
+
+#texto{
+	color: #000000;
+	text-align: center;
+	background-color: #FFF7E0;
+	padding: 1.2%;
+	position: relative; top: -25%;
+	font-size: 18px;
+	margin-left: 20%;
+	margin-right: 20%;
+	letter-spacing: 3px;
+}
+
+#sofia{
+	margin-left: 2%;
+	padding: 1.5%;
+	font-size: 18px;
+}
+
+section{
+	width: 100%;
+	height: 550px;
+	background-color: #FFF7E0;
+}
+
+.internas{
+	height: 1300px;
+}
+
+#imagenfondo{
+	background-image: url(fondodos.png);
+	background-size: cover;
+}
+
+footer{
+	width: 100%;
+	height: 70px;
+	background-color: #AAA687;
+}
+
+nav{
+	width: 100%;
+	background-color: #DA4C30;
+
+}
+
+#botonera{
+	margin-left: 30%;	
+}
+
+#botonera li{
+	display: inline;
+}
+
+#botonera li a{
+	font-size: 15px;
+	text-decoration: none;
+	margin-left: 10%;
+	color: #000000;
+	font-family: 'Quicksand', sans-serif;
+	padding: 5px 5px;
+}
+
+.buscar{
+	margin-left: 78%;
+	padding: 1%;
+}
+
+.pregunta{
+	width: 160px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 14px;
+}
+
+.buscarboton{
+	width: 80px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+}
+
+#reduno{
+	margin-left: 90%;
+	position: relative; top: -65%;
+}
+
+#reddos{
+	margin-left: 1%;
+	position: relative; top: -65%;
+}
+
+#redtres{
+	margin-left: 1%;
+	position: relative; top: -65%;
+}
+
+.par1{
+	margin-right: 50%;
+	margin-left: 8%;
+}
+
+#cuadrouno{
+	margin-left: 55%;
+	position: relative; top: -28%;
+}
+
+#carac{
+	margin-left: 55%;
+	position: relative; top: -22%;
+}
+
+#par2{
+	margin-right: 5%;
+	margin-left: 55%;
+	position: relative; top: -22%;
+}
+
+#cuadrodos{
+	margin-left: 5%;
+	position: relative; top: -53%;
+}
+
+/* Galería */
+
+.g1{
+	margin-left: 12%;
+	padding: 1%;
+	position: relative; top: -1%;
+}
+
+.g2{
+	margin-left: 1%;
+	padding: 1%;
+	position: relative; top: -1%;
+}
+
+.g5{
+	margin-left: 12%;
+	padding: 1%;
+	position: relative; top: 1%;
+}
+
+.g6{
+	margin-left: 1%;
+	padding: 1%;
+	position: relative; top: 1%;
+}
+
+.g9{
+	margin-left: 12%;
+	padding: 1%;
+	position: relative; top: 3%;
+}
+
+.g10{
+	margin-left: 1%;
+	padding: 1%;
+	position: relative; top: 3%;
+}
+
+.g13{
+	margin-left: 12%;
+	padding: 1%;
+	position: relative; top: 6%;
+}
+
+.g14{
+	margin-left: 1%;
+	padding: 1%;
+	position: relative; top: 6%;
+}
+
+
+
+/* Exposiciones */
+
+#revista{
+	margin-left: 55%;
+	position: relative; top: -2%;
+} 
+
+#expo{
+	margin-left: 13%;
+	margin-right: 52%;
+	position: relative; top: -51%;
+	background-color: rgba(170, 166, 135, 0.5);
+	padding: 1%;
+}
+
+#parexpo{
+	margin-left: 13%;
+	margin-right: 52%;
+	position: relative; top: -52.5%;
+	background-color: rgba(170, 166, 135, 0.5);
+	padding: 1%;
+}
+
+#desc{
+	margin-left: 55%;
+	padding: 1%;
+	margin-right: 12%;
+	position: relative; top: -44.5%;
+	font-size: 14px;
+	background-color: rgba(230, 230, 230, 1.0);
+}
+
+
+#expodos{
+	margin-left: 13%;
+	margin-right: 52%;
+	position: relative; top: -51%;
+	background-color: rgba(170, 166, 135, 0.5);
+	padding: 1%;
+}
+
+#parexpodos{
+	margin-left: 13%;
+	margin-right: 52%;
+	position: relative; top: -52.5%;
+	background-color: rgba(170, 166, 135, 0.5);
+	padding: 1%;
+}
+
+#expotres{
+	margin-left: 55%;
+	margin-right: 12%;
+	position: relative; top: -94%;
+	background-color: rgba(170, 166, 135, 0.5);
+	padding: 1%;
+}
+
+
+#parexpotres{
+	margin-left: 55%;
+	margin-right: 12%;
+	position: relative; top: -95.5%;
+	background-color: rgba(170, 166, 135, 0.5);
+	padding: 1%;
+}
+
+#revistados{
+	margin-left: 13%;
+	position: relative; top: -51%;
+} 
+
+#descdos{
+	margin-left: 13%;
+	padding: 1%;
+	margin-right: 52%;
+	position: relative; top: -92%;
+	font-size: 14px;
+	background-color: rgba(230, 230, 230, 1.0);
+}
+
+
+
+
+/* Contacto */
+
+#formulario{
+
+	width: 55%;
+	height: 70%;
+	margin-left: 10%;
+	margin-right: auto;
+	background-color: #AAA687;
+	border-width: thick;
+	border-style: double ; color: #DA4C30;
+
+}
+
+.cajal{
+	margin-left: 15%;
+	width: 40%;
+	padding: 1%;
+	
+
+}
+
+.datos{
+	color: #000000;
+	font-family: 'Quicksand', sans-serif;
+	margin-left: 15%;
+	font-size: 17px;
+}
+
+.cajac{
+	width: 315px;
+	height: 60px;
+	margin-left: 15%;
+}
+
+.boton{
+	width: 150px;
+	height: 50px;
+	background-color: #DA4C30;
+	color: #FFFFFF;
+	font-family: 'Quicksand', sans-serif;
+	margin-left: 40%;
+	font-size: 15px;
+}
+
+#hcontacto{
+	margin-left: 75%;
+	margin-right: 6%;
+	position: relative; top: -50%;
+	background-color: rgba(218, 76, 48, 0.5);
+	padding: 1%;
+}
+
+#ig{
+	margin-left: 77%;
+	position: relative; top: -45%;
+}
+
+#fb{
+	margin-left: 83%;
+	position: relative; top: -48%;
+}
+
+#pi{
+	margin-left: 89%;
+	position: relative; top: -50.5%;
+}
+
+#mail{
+	margin-left: 75%;
+	margin-right: 6%;
+	padding: 1%;
+	position: relative; top: -48%;
+	background-color: rgba(218, 76, 48, 0.5);
+}
+
+
+/* Artistas */
+
+#artistauno{
+	margin-left: 13%;
+	position: relative; top: 4%;
+}
+
+.matisse{
+	text-align: center;
+	position: relative; top: -20.5%;
+}
+
+.vida{
+	text-align: center;
+	position: relative; top: -20.5%;
+}
+
+
+.biografiamatisse{
+	margin-left: 31%;
+	margin-right: 7%;
+	position: relative; top: -20%;
+	background-color: rgba(218, 76, 48, 0.3);
+	padding: 1%;
+}
+
+#artistados{
+	margin-left: 78%;
+	position: relative; top: -10%;
+}
+
+
+.derain{
+	text-align: center;
+	position: relative; top: -35%;
+}
+
+.vidados{
+	text-align: center;
+	position: relative; top: -35%;
+}
+
+.biografiaderain{
+	margin-left: 12%;
+	margin-right: 25%;
+	position: relative; top: -34%;
+	background-color: rgba(170, 166, 135, 0.5);
+	padding: 1%;
+}
+
+#artistatres{
+	margin-left: 13%;
+	position: relative; top: -25%;
+}
+
+.maurice{
+	text-align: center;
+	position: relative; top: -50%;
+}
+
+.vidatres{
+	text-align: center;
+	position: relative; top: -50%;
+}
+
+.biografiamaurice{
+	margin-left: 33%;
+	margin-right: 8%;
+	position: relative; top: -49%;
+	background-color: rgba(218, 76, 48, 0.3);
+	padding: 1%;
+}
